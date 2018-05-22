@@ -9,6 +9,3 @@ I would like a measure of "optimal choice" such that on every trial, we know if 
 - Code as 1 if optimal, 0 of non-optimal, and 99 if neither 
 
 	- 99 codes will be applied when the cues in a given pair have identical % of positive outcomes (eg: both 50%, both 0% -- as on the first trial). 
-
-
-# test pull
